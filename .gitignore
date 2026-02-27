@@ -1,0 +1,6 @@
+petsc/
+Files/
+FilesLap/
+err/
+
+*.dat
